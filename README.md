@@ -53,7 +53,7 @@ O artigo "Navegando nas Águas Turbulentas de Ponteiros e Referências" pode ser
 
 ### * [Lexica.art](https://lexica.art)
 
-1. Prompts usado para a criação ds imagens:
+1. Prompts usado para a criação das imagens:
 
 ```Cyberpunk cat programming```
 
